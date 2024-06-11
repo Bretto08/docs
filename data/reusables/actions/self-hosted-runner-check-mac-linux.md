@@ -1,3 +1,3 @@
 ```shell
-./config.sh --check --url URL --pat ghp_abcd1234
+./run.sh --check --url URL --pat ghp_abcd1234
 ```
